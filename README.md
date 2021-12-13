@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranaysahariah
 - 👀 I’m interested in programming and open source development
-- 🌱 I’m currently learning java,clode security,DS and ....
+- 🌱 I’m currently learning java,cloud security,DS and ....
 - 💞️ I’m looking to collaborate on open source development
 - 📫 How to reach me pranaysahariah888@gmail.com
 
