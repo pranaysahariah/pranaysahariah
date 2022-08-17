@@ -2,5 +2,6 @@
 - 👀 I’m interested in programming and open source development
 - 🌱 I’m currently learning java,cloud security,DS and ....
 - 💞️ I’m looking to collaborate on open source development
-- 📫 How to reach me pranaysahariah888@gmail.com
+- 📫 How to reach me pranaysahariah888@gmail.com<br>
+<br>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pranaysahariah&theme=highcontrast&show_icons=true&count_private=true)
