@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranaysahariah
-- 👀 I’m interested in Data Science and cyber secutity,cloude security 
+- 👀 I’m interested in Data Science and cyber secutity,cloud security 
 - 🌱 I’m currently working as a cyber security consultant 
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me at pranaysahariah888@gmail.com
